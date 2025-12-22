@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# SSH Keys
+github_auth
+github_auth.pub
+id_ed25519*
+!*.pub
