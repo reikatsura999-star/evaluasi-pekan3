@@ -26,7 +26,7 @@ export default function ProductCard({ product }) {
       <button onClick={() => {
         console.log('Clicked add for:', product);
         add(product);
-      }}>+ Keranjang</button>
+      }}>tambah ke Keranjang</button>
     </div>
   );
 }
